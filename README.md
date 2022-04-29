@@ -1,5 +1,10 @@
 # pokemon-game
 
+## Project link
+```
+https://sehdez.github.io/pokemon-game
+```
+
 ## Project setup
 ```
 npm install
